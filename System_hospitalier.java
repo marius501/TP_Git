@@ -35,11 +35,13 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
+		// Texte ajouté par WAFO Marius
 		return "requête analysée";
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
+		// Un autre texte ajouté par WAFO Marius
 		return "Cluster trouvé";
 	}
 
